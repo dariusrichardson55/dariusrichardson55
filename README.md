@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dariusrichardson55</h1>
 <h3 align="center">A passionate frontend developer, backend web developer</h3>
 
-- 🔭 I’m currently working on **Improving my Mental Health Support**
+- 🔭 I’m currently working on **Improving my Mental Health Support app**
 
 - 🌱 I’m currently learning **C#**
 
