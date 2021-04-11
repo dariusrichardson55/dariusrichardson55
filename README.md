@@ -18,13 +18,15 @@
 
 
  <!-- C#  --> 
+ <div>
+
 <p align="left"> <a href="https://www.w3schools.com/cs" target="_blank"> <img
 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a> 
   
 
   <!-- CSS3  --> 
 <a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
- 
+  </div>
  
 <!-- HTML5  --> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
