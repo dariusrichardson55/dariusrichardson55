@@ -33,18 +33,22 @@ src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.sv
 
  
 <!-- HTML5  --> 
-<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> 
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></p></td>
 
 <!-- Node.js  --> 
-<a href="https://nodejs.org/en/about" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/about" target="_blank"> 
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a></p></td>
 
 
 <!-- React   --> 
-<a href="https://nodejs.org/en/about" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+<a href="https://nodejs.org/en/about" target="_blank"> 
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a></p></td>
 
 
 <!-- Adobe Design   --> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe Design" width="40" height="40"/></a>
+ <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe Design" width="40" height="40"/></a></p?</td>
 </tr>
 </table>
 
