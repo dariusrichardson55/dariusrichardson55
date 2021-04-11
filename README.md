@@ -22,11 +22,10 @@
 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a> 
   
 
-  
+  <!-- CSS3  --> 
+<a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> 
+ 
 
-<a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="nodejs" width="40"
-devicons/devicon/blob/master/icons/html5/html5-original.svg
-height="40"/> </a> 
 
 <a href="https://reactjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" 
 height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
