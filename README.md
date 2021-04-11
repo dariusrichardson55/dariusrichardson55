@@ -20,7 +20,7 @@
  <!-- C#  --> 
 
  
-<table width="100%">
+<table width="99%">
  <tr>
   <a href="https://www.w3schools.com/css" target="C#"> 
    <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> <a href="https://www.w3schools.com/cs" target="_blank"></a>
