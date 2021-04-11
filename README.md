@@ -22,8 +22,8 @@
 <a href="https://www.w3schools.com/cs" target="_blank"> 
 <table width="100%">
  <tr>
-  <td>
-   <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
+
+   <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a>
   
 
   <!-- CSS3  --> 
