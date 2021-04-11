@@ -23,12 +23,23 @@ src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.sv
   
 
   <!-- CSS3  --> 
-<a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> 
+<a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
  
  
-<!-- html5  --> 
-<a href="https://reactjs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" 
-height="40"/> </a><a href="https://www.w3schools.com/html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- HTML5  --> 
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+
+<!-- Node.js  --> 
+<a href="https://nodejs.org/en/about" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
+
+
+<!-- React   --> 
+<a href="https://nodejs.org/en/about" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+
+
+<!-- Adobe Design   --> 
+<a href="https://nodejs.org/en/about" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+
 
 
 
