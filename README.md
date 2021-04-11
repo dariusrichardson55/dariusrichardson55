@@ -22,8 +22,8 @@
 <a href="https://www.w3schools.com/cs" target="_blank"> 
 <table width="99%">
  <tr>
-  <td><img 
-src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
+  <td>
+   td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
   
 
   <!-- CSS3  --> 
@@ -38,7 +38,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.sv
 
 <!-- Node.js  --> 
 <a href="https://nodejs.org/en/about" target="_blank"> 
- <td><p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a></p></td>
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a></p></td>
 
 
 <!-- React   --> 
