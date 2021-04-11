@@ -23,7 +23,7 @@
 <table width="99%">
  <tr>
   <td>
-   td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
+   <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
   
 
   <!-- CSS3  --> 
