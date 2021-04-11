@@ -39,14 +39,14 @@
  <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a></p></td>
 
 
-<!-- React   --> 
+<!-- React --> 
 <a href="https://nodejs.org/en/about" target="_blank"> 
  <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a></p></td>
 
 
-<!-- Adobe Design   --> 
+<!-- Adobe Design --> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
- <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe Design" width="40" height="40"/></a></p?</td>
+ <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe Design" width="40" height="40"/></a></p</td>
 </tr>
 </table>
 
