@@ -22,7 +22,7 @@
  <tr>
   <td>
 
-<p align="left"> <a href="https://www.w3schools.com/cs" target="_blank"> <img
+<a href="https://www.w3schools.com/cs" target="_blank"> <img
 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a> 
   
 
