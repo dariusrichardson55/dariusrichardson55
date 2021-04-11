@@ -29,7 +29,7 @@
   <!-- CSS3  --> 
    <tr>
 <a href="https://www.w3schools.com/css" target="_blank"> 
- <td><p align="center"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></p>
+ <td><p align="center"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 
  
 <!-- HTML5  --> 
