@@ -22,13 +22,13 @@
 <a href="https://www.w3schools.com/cs" target="_blank"> 
 <table width="100%">
  <tr>
-
-   <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a>
+<td>
+   <td><p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a>
   
 
   <!-- CSS3  --> 
 <a href="https://www.w3schools.com/css" target="_blank"> 
- <p align="center"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+ <td><p align="center"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 
  
 <!-- HTML5  --> 
