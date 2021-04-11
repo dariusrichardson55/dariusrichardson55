@@ -19,7 +19,7 @@
 
  <!-- C#  --> 
 
-<a align="center">href="https://www.w3schools.com/cs" target="_blank"> <td><p align="center">
+<a href="https://www.w3schools.com/cs" target="_blank"> 
 <table width="99%">
  <tr>
   <td><img 
