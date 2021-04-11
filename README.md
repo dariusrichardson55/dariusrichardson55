@@ -18,7 +18,9 @@
 
 
  <!-- C#  --> 
- <div>
+<table width="99%">
+ <tr>
+  <td>
 
 <p align="left"> <a href="https://www.w3schools.com/cs" target="_blank"> <img
 src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -26,7 +28,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.sv
 
   <!-- CSS3  --> 
 <a href="https://www.w3schools.com/css" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
-  </div>
+
  
 <!-- HTML5  --> 
 <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
@@ -41,7 +43,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.sv
 
 <!-- Adobe Design   --> 
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe Design" width="40" height="40"/></a>
-
+</tr>
+</table>
 
 
 
