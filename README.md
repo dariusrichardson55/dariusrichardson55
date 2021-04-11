@@ -23,13 +23,13 @@
 <table width="99%">
  <tr>
   <td>
-   <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
+   <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/></a></td>
   
 
   <!-- CSS3  --> 
   
 <a href="https://www.w3schools.com/css" target="_blank"> 
- <td><p align="left"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></p></td>
+ <td><p align="center"><img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></p></td>
 
  
 <!-- HTML5  --> 
