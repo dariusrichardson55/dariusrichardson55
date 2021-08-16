@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my Mental Health Support app**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently improving my knowledge on **C#**
 
 - 📫 How to reach me **darius.richardson@me.com**
 
