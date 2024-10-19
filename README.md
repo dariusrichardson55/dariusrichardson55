@@ -11,6 +11,27 @@
 <a href="https://www.linkedin.com/in/darius-richardson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/darius-richardson/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Key Skills:</h3>
+<ul>
+<li>Communication</li>
+<li>Team player</li>
+<li>Problem solving</li> 
+<li>Attention to detail</li>
+<li>Time management</li>
+<li>Stakeholder management</li>
+<li>Adaptability</li>
+<li>Resilience</li>
+<li>SQL/MySQL</li>
+<li>Database Administration</li>
+<li>Automation Anywhere</li>
+<li>BluePrism</li>
+<li>Ui Path</li>
+<li>Tenable Nessus</li>
+<li>OpenCV</li>
+<li>Google Workspace</li>
+<li>Microsoft Office</li>
+<li>Video conferencing</li>
+</ul>
 
 <h3 align="left">Programming Languages and Tools:</h3>
 
