@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
 <h3 align="center">An Aspiring CyberSecurity Analysis</h3>
 
-<h3>I created a Cybersecurity Analysis Portfolio, please find it <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h3></a>
+<h2>:briefcase: I created a Cybersecurity Analysis Portfolio, please find it <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
 
 
-- 🌱 I’m currently learning CyberSecurity
+<h2>:books: I’m currently learning CyberSecurity</h2>
 
-- 📫 You can reach me darius.richardson@me.com
+<h2>:email: You can reach me darius.richardson@me.com</h2>
