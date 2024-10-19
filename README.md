@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning CyberSecurity
 
-- 📫 How to reach me **darius.richardson@me.com**
+- 📫 You can reach me **darius.richardson@me.com**
 
 
 
