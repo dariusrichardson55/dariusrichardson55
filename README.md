@@ -6,4 +6,4 @@
 
 <h2>:books: I’m currently learning CyberSecurity</h2>
 
-<h2>:email: You can reach me darius.richardson@me.com</h2>
+<h2>:email: You can reach me at darius.richardson@me.com</h2>
