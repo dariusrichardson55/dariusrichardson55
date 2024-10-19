@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
 <h3 align="center">An Aspiring CyberSecurity Analysis</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/darius-richardson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/darius-richardson/" height="30" width="40" /></a>
+</p>
+
 
 - 🌱 I’m currently learning CyberSecurity
 
 - 📫 How to reach me **darius.richardson@me.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/darius-richardson/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/darius-richardson/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Key Skills:</h3>
 <ul>
