@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm dariusrichardson55</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h1 align="center">Hi, I'm Darius Richardson</h1>
+<h3 align="center">An Aspiring CyberSecurity Analysis</h3>
 
-- 🔭 I’m currently working on **Improving my Mental Health Support app**
-
-- 🌱 I’m currently improving my knowledge on **C#**
+- 🌱 I’m currently learning CyberSecurity
 
 - 📫 How to reach me **darius.richardson@me.com**
 
