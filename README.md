@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
-<h3 align="center">An Aspiring CyberSecurity Analysis</h3>
+<h3 align="center">An Aspiring CyberSecurity Analyst</h3>
 
 <h2>:briefcase: I created a Cybersecurity Analysis Portfolio, please find it <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
 
