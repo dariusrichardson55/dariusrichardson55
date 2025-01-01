@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
 <h3 align="center">An Aspiring Cyber Security Analyst</h3>
 
-<h2>:briefcase: I completed a Cybersecurity Bootcamp, please find my work here <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
+<h2>:briefcase: I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
 
 <h2>🖥️: I’m currently doing practical projects to demonstrate my understanding of cybersecurity software and tools</h2>
 
 <h2>:email: You can reach me at darius.richardson@me.com</h2>
-
 
 <h2 align="left">Programming Languages and Tools</h2>
 <h3>I have also done projects during university that are helpful in cybersecurity</h3>
