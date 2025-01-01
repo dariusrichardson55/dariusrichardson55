@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
 <h3 align="center">An Aspiring Cyber Security Analyst</h3>
 
-<h2>:briefcase: I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
+<h2>🛡️: I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
 
 <h2>🖥️: I’m currently doing Personal Development Projects to demonstrate my understanding of cybersecurity software and tools, please find my projects <a href="https://github.com/dariusrichardson55/Personal-Development-Projects" target="blank">here</h2>
 
