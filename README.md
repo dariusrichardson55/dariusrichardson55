@@ -8,7 +8,6 @@
 <h2>:email: You can reach me at darius.richardson@me.com</h2>
 
 <h2 align="left">Programming Languages and Tools</h2>
-<h3>I have also done projects during university that are helpful in cybersecurity</h3>
 
  <!-- C#  --> 
 <table width="99%">
