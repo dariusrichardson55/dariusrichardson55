@@ -10,9 +10,9 @@ full-time, government-funded Skills Bootcamp in cybersecurity to help achieve th
 working on personal development projects to continue my advancement as an aspiring cybersecurity
 expert and I now seek employment opportunities, ideally in an earn-and-learn capacity, that would
 allow for ongoing professional development.
-<h2>🛡️: I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
+<h2>🛡️ I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
 
-<h2>🖥️: I’m currently doing Personal Development Projects to demonstrate my understanding of cybersecurity software and tools, please find my projects <a href="https://github.com/dariusrichardson55/Personal-Development-Projects" target="blank">here</h2>
+<h2>🖥️ I’m currently doing Personal Development Projects to demonstrate my understanding of cybersecurity software and tools, please find my projects <a href="https://github.com/dariusrichardson55/Personal-Development-Projects" target="blank">here</h2>
 
 <h2>:email: You can reach me at darius.richardson@me.com</h2>
 
