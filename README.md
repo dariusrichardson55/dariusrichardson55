@@ -15,7 +15,3 @@ allow for ongoing professional development.
 <h2>🖥️ I’m currently doing Personal Development Projects to demonstrate my understanding of cybersecurity software and tools, please find my projects <a href="https://github.com/dariusrichardson55/Personal-Development-Projects" target="blank">here</h2>
 
 <h2>:email: You can reach me at darius.richardson@me.com</h2>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariusrichardson55&show_icons=true&locale=en&layout=compact" alt="dariusrichardson55" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dariusrichardson55&show_icons=true&locale=en" alt="dariusrichardson55" /></p>
