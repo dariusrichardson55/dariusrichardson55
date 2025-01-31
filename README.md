@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
-<h3 align="center">An Aspiring Cyber Security Analyst</h3>
+<h3 align="center">An Aspiring Cybersecurity expert</h3>
 <h1>Profile</h1>
 I am a motivated and detail-oriented Computer Science graduate from the University of Lincoln with
 hands-on experience as a Junior RPA Engineer. Naturally technically minded, I am proficient across many
