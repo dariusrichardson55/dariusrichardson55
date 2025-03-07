@@ -13,7 +13,7 @@ conferencing, ServiceNow, OpenCV, Tenable Nessus, Microsoft Office, GitHub, Thre
 Business intelligence, IT security controls, Data-driven insights, Data analysis tools, Cloud computing</p>
 <p></p><b>Analytical skills -</b> Research skills, Attention to detail, Decision making</p>
 <p></p><b>Soft skills -</b> Verbal and written communication, Problem solving, Time management, Stakeholder
-Management, Adaptability, Resilience, Work ethics, Organisational, Confidentiality</p>
+Management, Adaptability Resilience, Work ethics, Organisational, Confidentiality</p>
 
 
 <h2>🛡️ I completed a Cybersecurity Bootcamp, please find my work <a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp" target="blank">here</h2></a>
