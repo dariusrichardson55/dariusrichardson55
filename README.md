@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Darius Richardson</h1>
-<h3 align="center">An Aspiring Cybersecurity expert</h3>
+<h3 align="center">A Cybersecurity expert</h3>
 <h1>Profile</h1>
 <p>A motivated and detail-oriented Computer Science graduate from the University of Lincoln with hands-on experience in robotic process automation. Skilled in using Automation Anywhere and other RPA tools. Proficient in network security and risk analysis, with hands-on experience using tools like Tenable Nessus and OpenCV. Quick to adapt and learn new technologies.</p></p>
 
